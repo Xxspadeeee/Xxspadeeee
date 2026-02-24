@@ -1,6 +1,7 @@
 ﻿# My First Repo
 
 # 💫 About Me:
+Vibe Coding | Developer 
 Still learning
 
 
